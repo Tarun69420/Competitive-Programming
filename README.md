@@ -1,5 +1,4 @@
-# Leetcode
-LeetCode
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

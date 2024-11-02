@@ -6,8 +6,8 @@ class Solution:
         else:
             return poww(x,n)
 def poww(x,n):
-    if n == 0:
-        return 1
+    if n == 1:
+        return x
     if n%2 == 0:
         return poww(x*x,n//2)
     if n%2 == 1:

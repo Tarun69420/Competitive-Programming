@@ -8,8 +8,6 @@ class Solution:
         if target == 0:
             ans.append(ds[:])
             return
-        if target<0:
-            return
         for j in range(i,len(candidates)):
             if j>i and candidates[j]==candidates[j-1]:
                 continue

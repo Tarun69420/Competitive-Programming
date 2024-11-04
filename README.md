@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->

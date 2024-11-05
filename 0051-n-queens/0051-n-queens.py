@@ -6,10 +6,8 @@ class Solution:
         return ans
     def solve(self,col,n,board,ans):
         if col == n:
-            x = []
-            for i in board:
-                x.append("".join(i))
-            ans.append(x[:])
+            x = ["".join(i) for i in board]
+            ans.append(x)
             print(board)
             return
         for i in range(0,n):

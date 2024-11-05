@@ -6,13 +6,11 @@ class Solution:
         return ans
     def bs(self,nums,i,ds,ans,d):
         if i == len(nums):
-            ans.append(ds[:])
+            ans.append(nums[:])
             return
-        for j in d:
-            if d[j] == 0:
-                d[j]=1
-                ds.append(j)
-                self.bs(nums,i+1,ds,ans,d)
-                ds.pop()
-                d[j]=0
+        for j in range(i,len(nums)):
+            nums[j],nums[i] = nums[i],nums[j]
+            self.bs(nums,i+1,ds,ans,d)
+            nums[j],nums[i] = nums[i],nums[j]
+            
         return

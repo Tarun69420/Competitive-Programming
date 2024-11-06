@@ -1,35 +1,38 @@
+from typing import List
+
 class Solution:
     def solveSudoku(self, board: List[List[str]]) -> None:
         """
-        Do not return anything, modify board in-place instead.
+        Solves the Sudoku puzzle by modifying `board` in-place.
         """
-        self.bs (board,0)
-    def bs (self,board,row):
-        if row == 9:
-            return True
-        for col in range(0,9):
-            if board[row][col] == ".":
-                for num in range(1,10):
-                    if self.valid(board,row,col,str(num)):
-                        board[row][col] = str(num)
-                        if (self.bs(board,row)) == True:
-                            return True
-                        else:
-                            board[row][col] = "."
-                return False
-        return self.bs(board,row+1)
+        self.solve(board)
         
-        
-    def valid (self,board,row,col,num):
+    def solve(self, board: List[List[str]]) -> bool:
+        for row in range(9):
+            for col in range(9):
+                if board[row][col] == ".":  # Find an empty cell
+                    for num in range(1, 10):
+                        if self.is_valid(board, row, col, str(num)):
+                            board[row][col] = str(num)  # Place the number
+                            if self.solve(board):  # Recur for next cell
+                                return True
+                            board[row][col] = "."  # Backtrack
+                    return False  # No valid number, return False
+        return True  # Solved the board
+
+    def is_valid(self, board: List[List[str]], row: int, col: int, num: str) -> bool:
+        # Check the row
         for i in range(9):
-            if num == board[i][col]:
+            if board[row][i] == num:
                 return False
+        # Check the column
         for i in range(9):
-            if num == board[row][i]:
+            if board[i][col] == num:
                 return False
-        x,y = row - row % 3 , col - col % 3
-        for i in range(x,x+3):
-            for j in range(y,y+3):
+        # Check the 3x3 sub-grid
+        start_row, start_col = 3 * (row // 3), 3 * (col // 3)
+        for i in range(start_row, start_row + 3):
+            for j in range(start_col, start_col + 3):
                 if board[i][j] == num:
                     return False
         return True

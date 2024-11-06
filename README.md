@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tarun69420/Competitive-Programming/tree/master/0046-permutations) |
@@ -30,10 +31,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tarun69420/Competitive-Programming/tree/master/0046-permutations) |
@@ -47,4 +50,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

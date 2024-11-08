@@ -8,9 +8,7 @@ class Solution:
         if len(d) == 0:
             return ds
         nn  = self.fact(n-1)
-        x = k//nn
-        ds+=d[x]
-        d.pop(x)
+        ds+=d.pop(k//nn)
         return self.bs(n-1,k%nn,d,ds)
          
 

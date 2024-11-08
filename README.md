@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 ## Matrix
@@ -39,6 +40,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0040-combination-sum-ii) |
@@ -62,5 +64,6 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

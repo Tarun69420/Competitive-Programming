@@ -24,6 +24,7 @@
 | [0051-n-queens](https://github.com/Tarun69420/Competitive-Programming/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0052-n-queens-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Tarun69420/Competitive-Programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
@@ -69,6 +72,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |

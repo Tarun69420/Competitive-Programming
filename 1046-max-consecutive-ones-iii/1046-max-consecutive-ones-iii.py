@@ -14,4 +14,4 @@ class Solution:
             if z<=k:
                 mlen = max(r - l + 1 , mlen)
             r+=1
-        return mlen
+        return len(nums)-l

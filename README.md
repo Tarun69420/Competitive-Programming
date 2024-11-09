@@ -67,6 +67,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -74,11 +75,13 @@
 | [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tarun69420/Competitive-Programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |

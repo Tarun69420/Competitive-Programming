@@ -71,6 +71,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tarun69420/Competitive-Programming/tree/master/1034-subarrays-with-k-different-integers) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tarun69420/Competitive-Programming/tree/master/1034-subarrays-with-k-different-integers) |

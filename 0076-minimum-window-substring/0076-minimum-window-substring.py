@@ -25,9 +25,9 @@ class Solution:
                     minlen = r - l + 1
                     start = l
 
-                if s[l] in d:
-                    d[s[l]] += 1
-                    if d[s[l]] > 0:
+            
+                d[s[l]] += 1
+                if d[s[l]] > 0:
                         c -= 1
                 l += 1
             

@@ -9,10 +9,9 @@ class Solution:
         def bs(digits,ans,s):
             if len(digits) == 0:
                 ans.append(s)
-            if len(ans) == 3**n:
                 return
-            for i in range(len(digits)):
-                for j in d[digits[i]]:
+            
+            for j in d[digits[0]]:
                     bs(digits[1:],ans,s+j)
         bs(digits,ans,"")
         return ans

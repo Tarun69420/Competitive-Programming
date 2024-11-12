@@ -92,6 +92,7 @@
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1894-merge-strings-alternately](https://github.com/Tarun69420/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tarun69420/Competitive-Programming/tree/master/1034-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Tarun69420/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->

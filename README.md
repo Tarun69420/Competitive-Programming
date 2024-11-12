@@ -30,6 +30,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
+| [1022-unique-paths-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tarun69420/Competitive-Programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tarun69420/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -46,6 +47,7 @@
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,11 +64,13 @@
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
+| [1022-unique-paths-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
+| [1022-unique-paths-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |

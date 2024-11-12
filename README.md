@@ -27,6 +27,7 @@
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tarun69420/Competitive-Programming/tree/master/1034-subarrays-with-k-different-integers) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tarun69420/Competitive-Programming/tree/master/1034-subarrays-with-k-different-integers) |
@@ -102,6 +104,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tarun69420/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -109,6 +112,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |

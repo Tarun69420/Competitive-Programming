@@ -14,7 +14,7 @@ class Solution:
             d[char] += 1
         
         while r < len(s):
-            if s[r] in d and d[s[r]] > 0:
+            if d[s[r]] > 0:
                 c += 1
             
             if s[r] in d:

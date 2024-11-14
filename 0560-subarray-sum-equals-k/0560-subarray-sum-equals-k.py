@@ -7,9 +7,7 @@ class Solution:
         for i in range(n):
             s+=a[i]
             
-            if s - k in l:
-                maxlen +=l[s-k]
-            if s not in l: l[s] = 1
-            else:
-                l[s]+=1
+            
+            maxlen +=l.get(s-k,0)
+            l[s] = l.get(s,0)+1
         return maxlen

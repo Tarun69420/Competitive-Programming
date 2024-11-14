@@ -12,8 +12,8 @@ class Solution:
             s += a[i]
             
             # Check if there's a previous sum that would result in a subarray sum of k
-            if s - k in l:
-                count += l[s - k]
+
+            count += l[s - k]
                 
             # Increment the count of the current cumulative sum in the dictionary
             l[s] += 1

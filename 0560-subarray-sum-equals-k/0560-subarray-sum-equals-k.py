@@ -1,15 +1,21 @@
+from collections import defaultdict
+
 class Solution:
     def subarraySum(self, a: List[int], k: int) -> int:
         n = len(a)
-        l = {0:1}
+        l = defaultdict(int)
+        l[0] = 1  # Initialize with sum 0 to handle cases where subarray starts from index 0
         s = 0
-        maxlen = 0
+        count = 0
+        
         for i in range(n):
-            s+=a[i]
+            s += a[i]
             
+            # Check if there's a previous sum that would result in a subarray sum of k
             if s - k in l:
-                maxlen +=l[s-k]
-            if s not in l: l[s] = 1
-            else:
-                l[s]+=1
-        return maxlen
+                count += l[s - k]
+                
+            # Increment the count of the current cumulative sum in the dictionary
+            l[s] += 1
+            
+        return count

@@ -42,6 +42,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
@@ -141,12 +142,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -157,5 +160,6 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

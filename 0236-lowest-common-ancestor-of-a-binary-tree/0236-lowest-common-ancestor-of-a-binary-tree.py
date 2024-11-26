@@ -18,5 +18,5 @@ class Solution:
                 return root
             return l if l else r
         
-        x =  dfs(root,r1,r2)
-        return x if x else root
+        return dfs(root,r1,r2)
+        

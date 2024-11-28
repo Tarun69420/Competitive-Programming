@@ -7,19 +7,14 @@
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         q = deque([[root,0]])
-        maxwid = 0
-        
+        maxwid = 0 
         while q:
             l,r = 0,0
-            lvl = []
             size = len(q)
-            minind = 10000000
+            minind = q[0][1]
             for i in range(size):
                 x,ind = q.popleft()
-                
-                if ind != 0:
-                    ind-=1
-                    
+                ind-=minind                    
                 if i==0:
                     l=ind
                 elif i==size-1:

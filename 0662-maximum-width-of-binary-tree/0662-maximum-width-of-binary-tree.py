@@ -7,13 +7,10 @@
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         q = deque([[root,0]])
-        maxwid = 0
-        
+        maxwid = 0 
         while q:
             l,r = 0,0
-            lvl = []
             size = len(q)
-            minind = 10000000
             for i in range(size):
                 x,ind = q.popleft()
                 

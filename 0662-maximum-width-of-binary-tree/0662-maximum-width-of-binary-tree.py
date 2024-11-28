@@ -22,7 +22,8 @@ class Solution:
                     
                 if i==0:
                     l=ind
-                r = ind
+                elif i==size-1:
+                    r = ind
                 if x.left:
                     q.append([x.left,2*ind+1])
                 if x.right:

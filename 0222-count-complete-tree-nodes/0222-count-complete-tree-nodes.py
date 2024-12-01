@@ -8,6 +8,6 @@ class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        c=1
-        c=c+(self.countNodes(root.left)+self.countNodes(root.right))
-        return c
+        
+        return 1+(self.countNodes(root.left)+self.countNodes(root.right))
+        

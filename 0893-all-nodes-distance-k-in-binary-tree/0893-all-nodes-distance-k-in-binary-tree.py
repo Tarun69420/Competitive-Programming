@@ -26,14 +26,14 @@ class Solution:
         q = deque([target])
         h = 0
         visited  = set()
-        
+        visited.add(target)
         while q:
             if h == k:
                 return [n.val for n in q]
             
             for j in range(len(q)):
                 x = q.popleft()
-                visited.add(target)
+                
                 if x.left and x.left not in visited:
                     visited.add(x.left)
                     q.append(x.left)

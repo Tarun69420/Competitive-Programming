@@ -101,6 +101,7 @@
 | [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Tarun69420/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
@@ -153,6 +154,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tarun69420/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -167,6 +169,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Tarun69420/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -179,6 +182,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tarun69420/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -194,6 +198,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tarun69420/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -202,4 +207,8 @@
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->

@@ -152,6 +152,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tarun69420/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -169,6 +170,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tarun69420/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -198,6 +200,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tarun69420/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -218,4 +221,5 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

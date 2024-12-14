@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun69420/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1022-unique-paths-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1022-unique-paths-iii) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Tarun69420/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 ## Tree
 |  |

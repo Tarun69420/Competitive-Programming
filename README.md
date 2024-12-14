@@ -7,6 +7,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Tarun69420/Competitive-Programming/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Tarun69420/Competitive-Programming/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tarun69420/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Tarun69420/Competitive-Programming/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -27,6 +28,7 @@
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun69420/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +143,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/Tarun69420/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 ## Tree
 |  |

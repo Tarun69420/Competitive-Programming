@@ -4,8 +4,9 @@ class Solution:
         summ = 0
         for i in nums:
             summ+=i
+            if summ>maxi:
+                maxi = summ
             if summ<0:
                 summ=0
-            elif summ>maxi:
-                maxi = summ
-        return maxi if maxi != (float("-inf")) else max(nums)
+            
+        return maxi

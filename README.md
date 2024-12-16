@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/Tarun69420/Competitive-Programming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Tarun69420/Competitive-Programming/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Tarun69420/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Tarun69420/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Tarun69420/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
@@ -219,6 +221,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tarun69420/Competitive-Programming/tree/master/0075-sort-colors) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |

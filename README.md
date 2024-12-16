@@ -25,6 +25,7 @@
 | [0040-combination-sum-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tarun69420/Competitive-Programming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Tarun69420/Competitive-Programming/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Tarun69420/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Tarun69420/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Tarun69420/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
@@ -239,5 +241,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tarun69420/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

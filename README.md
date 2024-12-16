@@ -30,6 +30,7 @@
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0216-combination-sum-iii) |
@@ -88,6 +89,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tarun69420/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun69420/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -142,6 +144,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tarun69420/Competitive-Programming/tree/master/1034-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tarun69420/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tarun69420/Competitive-Programming/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
@@ -232,4 +236,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tarun69420/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Tarun69420/Competitive-Programming/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0040-combination-sum-ii) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Tarun69420/Competitive-Programming/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tarun69420/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0283-move-zeroes) |

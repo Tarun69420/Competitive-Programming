@@ -45,6 +45,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Tarun69420/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tarun69420/Competitive-Programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Tarun69420/Competitive-Programming/tree/master/1813-maximum-erasure-value) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Tarun69420/Competitive-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Tarun69420/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Tarun69420/Competitive-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
 | ------- |
@@ -245,4 +247,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarun69420/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Tarun69420/Competitive-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

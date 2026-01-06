@@ -6,5 +6,7 @@ class Solution:
             if l[i]!=l[left]:
                 left+=1
                 l[left]=l[i]
+            else:
+                continue
         return left+1
             

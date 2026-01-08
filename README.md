@@ -33,6 +33,7 @@
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun69420/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Tarun69420/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tarun69420/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
@@ -95,6 +96,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tarun69420/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Tarun69420/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarun69420/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun69420/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tarun69420/Competitive-Programming/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tarun69420/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

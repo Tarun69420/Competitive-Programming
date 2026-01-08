@@ -28,6 +28,7 @@
 | [0051-n-queens](https://github.com/Tarun69420/Competitive-Programming/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Tarun69420/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tarun69420/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [1022-unique-paths-iii](https://github.com/Tarun69420/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 ## Backtracking
@@ -95,6 +97,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarun69420/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tarun69420/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Tarun69420/Competitive-Programming/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Tarun69420/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Tarun69420/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Tarun69420/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |

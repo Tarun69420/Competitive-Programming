@@ -33,6 +33,7 @@
 | [0078-subsets](https://github.com/Tarun69420/Competitive-Programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tarun69420/Competitive-Programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tarun69420/Competitive-Programming/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Tarun69420/Competitive-Programming/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun69420/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Tarun69420/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tarun69420/Competitive-Programming/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@
 | [0022-generate-parentheses](https://github.com/Tarun69420/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Tarun69420/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Tarun69420/Competitive-Programming/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun69420/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarun69420/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Tarun69420/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
